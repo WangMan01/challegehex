@@ -1,0 +1,31 @@
+{
+    "name": "Challege.hex",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "maqueen": "github:jhlucky/maqueen#c7b3140c3b07fc9a779a2711c95d13a31e4278db",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.2",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.9",
+        "tag": "v2.0.9",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/e9dc9463c8cc03b148e5434bbdec3953ebafacf5",
+        "target": "5.0.6",
+        "pxt": "5.15.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
